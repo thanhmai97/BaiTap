@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.background {
+	width: 100%;
+	height: 100vh;
+	background-color: #8080806b;
+	position: relative;
+}
+.center {
+	width: 350px;
+	height: 460px;
+	background-color: white;
+	position: absolute;
+	left: 50%;
+	top:50%;
+	transform: translate(-50%, -50%);
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #808080de;
+}
+.tieude {
+	padding-top: 40px;
+	text-align: center;
+}
+.all {
+	margin-left: 20px;
+}
+.bill-amount {
+	padding-top: 20px;
+}
+input {
+	height: 25px;
+}
+button {
+	width: 90px;
+	height: 20px;
+}
+.services {
+	padding-top: 20px;
+}
+.people {
+	padding-top: 20px;
+}
+.sum {
+	padding-top: 10px;
+}
+#kengang {
+	margin-top: 10px;
+	width: 100px;
+	border-top: 2px black solid;
+	margin: auto;
+}
